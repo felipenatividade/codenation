@@ -1,0 +1,10 @@
+[
+  "test_submit.py::EmailValidTests::test_eight",
+  "test_submit.py::EmailValidTests::test_five",
+  "test_submit.py::EmailValidTests::test_four",
+  "test_submit.py::EmailValidTests::test_one",
+  "test_submit.py::EmailValidTests::test_seven",
+  "test_submit.py::EmailValidTests::test_six",
+  "test_submit.py::EmailValidTests::test_three",
+  "test_submit.py::EmailValidTests::test_two"
+]

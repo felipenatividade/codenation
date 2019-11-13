@@ -1,0 +1,10 @@
+[
+  "test_submit.py::SellersRankingTests::test_best_seller",
+  "test_submit.py::SellersRankingTests::test_best_seller_store",
+  "test_submit.py::SellersRankingTests::test_best_seller_store_two",
+  "test_submit.py::SellersRankingTests::test_best_seller_three",
+  "test_submit.py::SellersRankingTests::test_best_seller_two",
+  "test_submit.py::SellersRankingTests::test_ranking_list",
+  "test_submit.py::SellersRankingTests::test_ranking_list_two",
+  "test_submit.py::SellersRankingTests::test_sales_goals"
+]

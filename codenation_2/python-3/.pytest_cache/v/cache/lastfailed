@@ -1,0 +1,5 @@
+{
+  "test_main.py::ManagerDatesTests::test_convert_string_to_date": true,
+  "test_main.py::ManagerDatesTests::test_count_days_mounth": true,
+  "test_main.py::ManagerDatesTests::test_get_first_monday": true
+}

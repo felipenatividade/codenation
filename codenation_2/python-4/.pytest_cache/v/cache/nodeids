@@ -1,0 +1,8 @@
+[
+  "test_submit.py::CalcAngleTests::test_angle_five",
+  "test_submit.py::CalcAngleTests::test_angle_four",
+  "test_submit.py::CalcAngleTests::test_angle_one",
+  "test_submit.py::CalcAngleTests::test_angle_six",
+  "test_submit.py::CalcAngleTests::test_angle_three",
+  "test_submit.py::CalcAngleTests::test_angle_two"
+]
